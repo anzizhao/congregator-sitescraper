@@ -9,7 +9,7 @@
     "debug": "0.8.x",
     "request": "2.34.0",
     "cheerio": "0.13.1",
-    "node-read": "eiriklv/node-read",
+    "node-read": "anzizhao/node-read",
     "congregator-base": "anzizhao/congregator",
     "html-entities": "1.0.10"
   },
