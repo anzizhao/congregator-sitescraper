@@ -3,10 +3,6 @@
   "version": "1.1.1",
   "main": "./lib/index",
   "description": "Site scraper for Congregator",
-  "bugs": {
-    "url": "http://github.com/eiriklv/congregator-sitescraper/issues",
-    "email": "evullum@gmail.com"
-  },
   "dependencies": {
     "colors": "0.6.x",
     "async": "0.7.x",
@@ -23,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eiriklv/congregator-sitescraper.git"
+    "url": "git://github.com/anzizhao/congregator-sitescraper.git"
   },
   "keywords": [
     "scraper",
@@ -31,7 +27,5 @@
     "site",
     "crawler"
   ],
-  "license": "MIT",
-  "author": "Eirik Vullum <evullum@gmail.com> (http://www.evconsult.no/)",
-  "homepage": "https://github.com/eiriklv/congregator-sitescraper"
+  "license": "MIT"
 }
