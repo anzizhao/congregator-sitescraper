@@ -10,7 +10,7 @@
     "request": "2.34.0",
     "cheerio": "0.13.1",
     "node-read": "anzizhao/node-read",
-    "congregator-base": "anzizhao/congregator",
+    "congregator-base": "anzizhao/congregator-base",
     "html-entities": "1.0.10"
   },
   "devDependencies": {},
