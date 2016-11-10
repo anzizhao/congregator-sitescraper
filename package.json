@@ -4,14 +4,15 @@
   "main": "./lib/index",
   "description": "Site scraper for Congregator",
   "dependencies": {
-    "colors": "0.6.x",
     "async": "0.7.x",
-    "debug": "0.8.x",
-    "request": "2.34.0",
     "cheerio": "0.13.1",
-    "node-read": "anzizhao/node-read",
+    "colors": "0.6.x",
     "congregator-base": "anzizhao/congregator-base",
-    "html-entities": "1.0.10"
+    "debug": "0.8.x",
+    "html-entities": "1.0.10",
+    "node-read": "anzizhao/node-read",
+    "request": "2.34.0",
+    "uuid": "^2.0.3"
   },
   "devDependencies": {},
   "scripts": {
