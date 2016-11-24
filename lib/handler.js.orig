@@ -83,6 +83,10 @@ exports = module.exports = function () {
         // THIS IS SYNCRONOUS
         site.template.containers.forEach(function (container) {
             // loop through all the container types that can hold articles
+<<<<<<< HEAD
+            //
+=======
+>>>>>>> origin/master
             $(container.selector).each(function () {
                 // flag for valid entry
                 var valid = true;
