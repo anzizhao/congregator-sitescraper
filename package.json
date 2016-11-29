@@ -12,6 +12,7 @@
     "html-entities": "1.0.10",
     "node-read": "anzizhao/node-read",
     "request": "2.34.0",
+    "superagent": "^3.0.0",
     "uuid": "^2.0.3"
   },
   "devDependencies": {},
